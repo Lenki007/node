@@ -1,0 +1,20 @@
+{
+  "name": "node.api",
+  "version": "1.0.0",
+  "description": "my first json file",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016C:\\Users\\Lenki\\Desktop\\nodespielereien"
+  },
+  "author": "Lenki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "sqlite": "^2.9.2",
+    "sqlite3": "^4.0.0"
+  }
+}
